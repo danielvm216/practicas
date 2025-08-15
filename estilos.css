@@ -1,0 +1,21 @@
+
+h2 {
+    color: purple;
+    border-bottom: 2px solid blue; 
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+}
+
+footer {
+    border-top: 2px solid black; 
+    padding-top: 20px;
+    margin-top: 20px;
+    text-align: center;
+    color: gray;
+}
+
+h1{
+    color:blue;
+    text-align: center;
+
+}
